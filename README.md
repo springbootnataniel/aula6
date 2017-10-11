@@ -1,7 +1,8 @@
-# Aula 4
+# Aula 6
 
-* Criar uma conexão com o MongoDB
-* Criar o banco de dados no Mlab
-* Criar nossa Interface do Spring Data Repositories
-* CRUD em poucos minutos
+* Criar várias entidades 
+* Queres mais complexas
+* Buscas por referência
+* Entidade genérica
+
 
